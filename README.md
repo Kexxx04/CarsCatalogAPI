@@ -62,6 +62,17 @@ CarsCatalog2/ │
 
 ### 1. Clonar el repositorio
 
+#✅ Verifica los pasos clave para usar dotnet ef database update correctamente:
+1. ¿Ya tienes instalada la herramienta de EF Core?
+Abre tu terminal y ejecuta:
+
+# bash
+dotnet tool install --global dotnet-ef
+Si ya está instalada, actualízala (opcional):
+
+# bash
+dotnet tool update --global dotnet-ef
+
 # bash
 git clone https://github.com/Kexxx04/CarsCatalogAPI.git
 cd CarsCatalog2
