@@ -63,7 +63,7 @@ CarsCatalog2/ │
 ### 1. Clonar el repositorio
 
 # bash
-git clone https://github.com/tuusuario/CarsCatalog2.git
+git clone https://github.com/Kexxx04/CarsCatalogAPI.git
 cd CarsCatalog2
 
 ### 2. Configurar la base de datos
